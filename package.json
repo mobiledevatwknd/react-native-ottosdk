@@ -35,13 +35,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/fdlnwknd/react-native-ottosdk",
-  "author": "fdlnwknd <fadhlan@weekendinc.com> (https://github.com/fdlnwknd)",
+  "repository": "https://github.com/mobiledevatwknd/react-native-ottosdk",
+  "author": "mwknd <mobile.dev@weekendinc.com> (https://github.com/mobiledevatwknd)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fdlnwknd/react-native-ottosdk/issues"
+    "url": "https://github.com/mobiledevatwknd/react-native-ottosdk/issues"
   },
-  "homepage": "https://github.com/fdlnwknd/react-native-ottosdk#readme",
+  "homepage": "https://github.com/mobiledevatwknd/react-native-ottosdk#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
